@@ -6,6 +6,14 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GuilhermeTyper&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake.svg">
+    <img alt="Github Snake" src="https://raw.githubusercontent.com/GuilhermeTyper//output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+<p align="center">
   <img src='https://hacked-github-stat-trophies.vercel.app/?username=GuilhermeTyper&theme=dracula&column=11'>
 </p>
 
@@ -72,13 +80,7 @@
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake.svg">
-    <img alt="Github Snake" src="https://raw.githubusercontent.com/GuilhermeTyper//output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  

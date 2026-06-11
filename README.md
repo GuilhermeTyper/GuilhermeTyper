@@ -9,12 +9,7 @@
   <img src='https://hacked-github-stat-trophies.vercel.app/?username=GuilhermeTyper&theme=dracula&column=11'>
 </p>
 
-<div align="center">  
-<a href="https://www.instagram.com/guilhermeaugusto15/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 
-<a href="https://www.facebook.com/GuilhermeHostEntregas/" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"></a>
-</div>
- 
 ### Main skills:
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Angular.js](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)&nbsp;
@@ -77,7 +72,13 @@
 ![TravisCI](https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GuilhermeTyper/GuilhermeTyper/output/github-contribution-grid-snake.svg">
+    <img alt="Github Snake" src="https://raw.githubusercontent.com/GuilhermeTyper//output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
